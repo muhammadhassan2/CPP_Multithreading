@@ -1,2 +1,2 @@
-# CPP_Mutltithreading
-C++ Mutltithreading
+# CPP_Multithreading
+C++ Multithreading
